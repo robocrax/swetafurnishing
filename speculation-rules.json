@@ -1,0 +1,1 @@
+{"prerender":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/api/*","/admin/*","/admin","/*.pdf","/*\\?*"]}},{"not":{"selector_matches":".no-prerender, [rel~=nofollow], [download], [target=_blank]"}}]},"eagerness":"moderate"}]}
